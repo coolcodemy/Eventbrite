@@ -9,7 +9,7 @@ Begin by installing this package through Composer.
 ```js
 {
     "require": {
-        "sqrc/eventbrite": "dev-master"
+        "coolcodemy/eventbrite": "dev-master"
     }
 }
 ```
